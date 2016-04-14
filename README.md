@@ -28,6 +28,9 @@ function (
 * [Relay](http://relayphp.com/)
 * [Slim](http://www.slimframework.com/)
 * [Zend-stratigility](https://github.com/zendframework/zend-stratigility)
+* [Expressive](https://zendframework.github.io/zend-expressive/), based on Zend-stratigility
+* [SpiralFramework](https://spiral-framework.com/guide)
+
 
 ## PSR-7 middlewares
 
@@ -46,6 +49,7 @@ function (
 * [Slim-Csrf](https://github.com/slimphp/Slim-Csrf)
 * [Proxy Scheme and Host detection middleware](https://github.com/akrabat/rka-scheme-and-host-detection-middleware)
 * [Client IP address middleware](https://github.com/akrabat/rka-ip-address-middleware)
+* [PSR-7 Storage-less HTTP CSRF protection](https://github.com/Ocramius/PSR7Csrf)
 
 ### Optimisation
 
@@ -54,7 +58,12 @@ function (
 
 
 
-## miscellaneous
 
-* Guzzle
+### HTTP client 
 
+* [Guzzle](http://guzzlephp.org/)
+* [HTTPlug](http://httplug.io/)
+
+### Miscellaneous
+
+* [Cross-Origin Resource Sharing](https://github.com/neomerx/cors-psr7)
