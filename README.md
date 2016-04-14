@@ -59,11 +59,11 @@ function (
 
 
 
-### HTTP client 
+## HTTP client 
 
 * [Guzzle](http://guzzlephp.org/)
 * [HTTPlug](http://httplug.io/)
 
-### Miscellaneous
+## Miscellaneous
 
 * [Cross-Origin Resource Sharing](https://github.com/neomerx/cors-psr7)
