@@ -51,6 +51,7 @@ function (
 * [Proxy Scheme and Host detection middleware](https://github.com/akrabat/rka-scheme-and-host-detection-middleware)
 * [Client IP address middleware](https://github.com/akrabat/rka-ip-address-middleware)
 * [PSR-7 Storage-less HTTP CSRF protection](https://github.com/Ocramius/PSR7Csrf)
+* [PSR-7 CORS Middleware](https://github.com/tuupola/cors-middleware)
 
 ### Optimisation
 
