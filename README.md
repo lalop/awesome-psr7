@@ -44,6 +44,7 @@ function (
 
 * [PSR-7 Storage-less HTTP Sessions](https://github.com/Ocramius/PSR7Session)
 * [PSR-7 JWT Authentication Middleware](https://github.com/tuupola/slim-jwt-auth)
+* [PSR-7 HMAC Authentication library](https://github.com/1ma/Psr7Hmac)
 
 ### Security
 
